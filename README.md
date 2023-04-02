@@ -48,7 +48,7 @@
 
 
 # Overall structure
-<img src="./images/Overall.png" width="500px"></img>
+<img src="./images/Overall.png" width="800px"></img>
 # F-MFC
 <img src="./images/F-MFC.png" width="500px"></img>
 # CFC
