@@ -53,6 +53,6 @@
 <img src="./images/F-MFC.png" width="500px"></img>
 # CFC
 <img src="./images/CFC.png" width="500px"></img>
-# Please cite this paper if it is helpful to you.
+# If this article is helpful to you, please cite it.
 
 Zhang, M., Yue, K., Zhang, J., Li, Y., & Gao, X. (2022, October). Exploring Feature Compensation and Cross-level Correlation for Infrared Small Target Detection. In Proceedings of the 30th ACM International Conference on Multimedia (pp. 1857-1865).
