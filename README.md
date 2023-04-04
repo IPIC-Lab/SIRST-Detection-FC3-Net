@@ -45,7 +45,8 @@
 
 [//]: # (> [2021-11-20]: Publish the <a href="#inference-code---how-to-test-on-your-images">inference code</a> and the pretrained model &#40;[Google Drive]&#40;https://drive.google.com/uc?export=download&id=1smX2YQGIpzKbfwDYHAwete00a_YMwoG1&#41; | [Baidu Wangpan &#40;pw: 2308&#41;]&#40;https://pan.baidu.com/s/1zGF3qnnD8qpI-Z5Nz0TDGA&#41;&#41; that can be used to test on your own privacy-preserving or normal portrait images. Some test results on P3M-10k can be viewed from this [demo page]&#40;https://github.com/JizhiziLi/P3M/tree/master/demo&#41;.)
 
-
+# Training
+python demo.py
 
 # Overall structure
 <img src="./images/Overall.png" width="800px"></img>
@@ -54,5 +55,4 @@
 # CFC
 <img src="./images/CFC.png" width="500px"></img>
 # Cite.
-If this article is helpful to you, please cite it.
 Zhang, M., Yue, K., Zhang, J., Li, Y., & Gao, X. (2022, October). Exploring Feature Compensation and Cross-level Correlation for Infrared Small Target Detection. In Proceedings of the 30th ACM International Conference on Multimedia (pp. 1857-1865).
